@@ -1,0 +1,27 @@
+.product_image{
+padding:10px;
+background-color:#f3f3f3;
+}
+.product_image img{ width:100%;}
+
+.product_details_colm .product_title{
+margin-bottom:15px;
+
+}
+.product_details_colm hr{
+}
+.product_details_colm strong{
+color:#8d9498;
+font-size:14px;
+font-weight:400;
+}
+.product_details_colm .value{
+color:#000000;
+font-size:28px;
+line-height:1.25;
+}
+.product_details_colm .value.mrp{
+color:#13b4ca;
+font-size:42px;
+
+}
